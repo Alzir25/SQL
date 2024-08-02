@@ -1,5 +1,5 @@
 # SQL
-Aprendendo SQL
+Aprendendo SQL com Teo Calvo
 # Episódio 01
 
 Neste episódio vamos entender o porque de usar bancos de dados, bem como o que os define. Ao decorrer da aula realizaremos nossas primeiras queries (consultas) no dialeto SQL (_Structured Query Language_).
